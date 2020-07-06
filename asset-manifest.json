@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/kishankanejiya/TechSolutions/static/css/main.ffebdc35.chunk.css",
+    "main.js": "/kishankanejiya/TechSolutions/static/js/main.0f554fcd.chunk.js",
+    "main.js.map": "/kishankanejiya/TechSolutions/static/js/main.0f554fcd.chunk.js.map",
+    "runtime-main.js": "/kishankanejiya/TechSolutions/static/js/runtime-main.b99f3938.js",
+    "runtime-main.js.map": "/kishankanejiya/TechSolutions/static/js/runtime-main.b99f3938.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/kishankanejiya/TechSolutions/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a4b7fb10.chunk.js": "/kishankanejiya/TechSolutions/static/js/2.a4b7fb10.chunk.js",
+    "static/js/2.a4b7fb10.chunk.js.map": "/kishankanejiya/TechSolutions/static/js/2.a4b7fb10.chunk.js.map",
+    "index.html": "/kishankanejiya/TechSolutions/index.html",
+    "precache-manifest.7fbe71258a0778f9abfb366a8a03e8bc.js": "/kishankanejiya/TechSolutions/precache-manifest.7fbe71258a0778f9abfb366a8a03e8bc.js",
+    "service-worker.js": "/kishankanejiya/TechSolutions/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/kishankanejiya/TechSolutions/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ffebdc35.chunk.css.map": "/kishankanejiya/TechSolutions/static/css/main.ffebdc35.chunk.css.map",
+    "static/js/2.a4b7fb10.chunk.js.LICENSE.txt": "/kishankanejiya/TechSolutions/static/js/2.a4b7fb10.chunk.js.LICENSE.txt",
+    "static/media/Docker.d3197ea2.png": "/kishankanejiya/TechSolutions/static/media/Docker.d3197ea2.d3197ea2.png",
+    "static/media/Git.c9f89058.png": "/kishankanejiya/TechSolutions/static/media/Git.c9f89058.c9f89058.png",
+    "static/media/Mongodb.1c660651.png": "/kishankanejiya/TechSolutions/static/media/Mongodb.1c660651.1c660651.png",
+    "static/media/Mysql.57c666e6.png": "/kishankanejiya/TechSolutions/static/media/Mysql.57c666e6.57c666e6.png",
+    "static/media/Vuejs.b64f9731.png": "/kishankanejiya/TechSolutions/static/media/Vuejs.b64f9731.b64f9731.png",
+    "static/media/abstract-art-blur-bright-373543.jpg": "/kishankanejiya/TechSolutions/static/media/abstract-art-blur-bright-373543.8d431ec5.jpg",
+    "static/media/apple-laptop-notebook-office-39284.jpg": "/kishankanejiya/TechSolutions/static/media/apple-laptop-notebook-office-39284.7ee53551.jpg",
+    "static/media/aws.69d7257c.png": "/kishankanejiya/TechSolutions/static/media/aws.69d7257c.69d7257c.png",
+    "static/media/internet-screen-security-protection-60504.jpg": "/kishankanejiya/TechSolutions/static/media/internet-screen-security-protection-60504.8e2034c0.jpg",
+    "static/media/react.2e427ed7.png": "/kishankanejiya/TechSolutions/static/media/react.2e427ed7.2e427ed7.png",
+    "static/media/socket.c4f5c857.png": "/kishankanejiya/TechSolutions/static/media/socket.c4f5c857.c4f5c857.png",
+    "static/media/white-and-black-laptop-computer-907489.jpg": "/kishankanejiya/TechSolutions/static/media/white-and-black-laptop-computer-907489.811f7c90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99f3938.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a4b7fb10.chunk.js",
+    "static/css/main.ffebdc35.chunk.css",
+    "static/js/main.0f554fcd.chunk.js"
+  ]
+}
