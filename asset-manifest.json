@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TechSolutions/static/css/main.ffebdc35.chunk.css",
-    "main.js": "/TechSolutions/static/js/main.c95a3d3d.chunk.js",
-    "main.js.map": "/TechSolutions/static/js/main.c95a3d3d.chunk.js.map",
+    "main.css": "/TechSolutions/static/css/main.8c8f47db.chunk.css",
+    "main.js": "/TechSolutions/static/js/main.0b5b3e49.chunk.js",
+    "main.js.map": "/TechSolutions/static/js/main.0b5b3e49.chunk.js.map",
     "runtime-main.js": "/TechSolutions/static/js/runtime-main.3d005009.js",
     "runtime-main.js.map": "/TechSolutions/static/js/runtime-main.3d005009.js.map",
     "static/css/2.af3c1da9.chunk.css": "/TechSolutions/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a4b7fb10.chunk.js": "/TechSolutions/static/js/2.a4b7fb10.chunk.js",
     "static/js/2.a4b7fb10.chunk.js.map": "/TechSolutions/static/js/2.a4b7fb10.chunk.js.map",
     "index.html": "/TechSolutions/index.html",
-    "precache-manifest.e097ca23e0dd21ba1766ac2b1d4fb04f.js": "/TechSolutions/precache-manifest.e097ca23e0dd21ba1766ac2b1d4fb04f.js",
+    "precache-manifest.95283cebc1166acbd973c6ba0cf4cfdd.js": "/TechSolutions/precache-manifest.95283cebc1166acbd973c6ba0cf4cfdd.js",
     "service-worker.js": "/TechSolutions/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/TechSolutions/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ffebdc35.chunk.css.map": "/TechSolutions/static/css/main.ffebdc35.chunk.css.map",
+    "static/css/main.8c8f47db.chunk.css.map": "/TechSolutions/static/css/main.8c8f47db.chunk.css.map",
     "static/js/2.a4b7fb10.chunk.js.LICENSE.txt": "/TechSolutions/static/js/2.a4b7fb10.chunk.js.LICENSE.txt",
     "static/media/Docker.d3197ea2.png": "/TechSolutions/static/media/Docker.d3197ea2.d3197ea2.png",
     "static/media/Git.c9f89058.png": "/TechSolutions/static/media/Git.c9f89058.c9f89058.png",
@@ -22,6 +22,7 @@
     "static/media/abstract-art-blur-bright-373543.jpg": "/TechSolutions/static/media/abstract-art-blur-bright-373543.8d431ec5.jpg",
     "static/media/apple-laptop-notebook-office-39284.jpg": "/TechSolutions/static/media/apple-laptop-notebook-office-39284.7ee53551.jpg",
     "static/media/aws.69d7257c.png": "/TechSolutions/static/media/aws.69d7257c.69d7257c.png",
+    "static/media/Home.comp.css": "/TechSolutions/static/media/cd.09958fbe.jpeg",
     "static/media/internet-screen-security-protection-60504.jpg": "/TechSolutions/static/media/internet-screen-security-protection-60504.8e2034c0.jpg",
     "static/media/react.2e427ed7.png": "/TechSolutions/static/media/react.2e427ed7.2e427ed7.png",
     "static/media/socket.c4f5c857.png": "/TechSolutions/static/media/socket.c4f5c857.c4f5c857.png",
@@ -31,7 +32,7 @@
     "static/js/runtime-main.3d005009.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a4b7fb10.chunk.js",
-    "static/css/main.ffebdc35.chunk.css",
-    "static/js/main.c95a3d3d.chunk.js"
+    "static/css/main.8c8f47db.chunk.css",
+    "static/js/main.0b5b3e49.chunk.js"
   ]
 }
