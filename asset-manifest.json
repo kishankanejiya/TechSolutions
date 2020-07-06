@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TechSolutions/static/css/main.ffebdc35.chunk.css",
-    "main.js": "/TechSolutions/static/js/main.6b3dd42d.chunk.js",
-    "main.js.map": "/TechSolutions/static/js/main.6b3dd42d.chunk.js.map",
+    "main.js": "/TechSolutions/static/js/main.c95a3d3d.chunk.js",
+    "main.js.map": "/TechSolutions/static/js/main.c95a3d3d.chunk.js.map",
     "runtime-main.js": "/TechSolutions/static/js/runtime-main.3d005009.js",
     "runtime-main.js.map": "/TechSolutions/static/js/runtime-main.3d005009.js.map",
     "static/css/2.af3c1da9.chunk.css": "/TechSolutions/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a4b7fb10.chunk.js": "/TechSolutions/static/js/2.a4b7fb10.chunk.js",
     "static/js/2.a4b7fb10.chunk.js.map": "/TechSolutions/static/js/2.a4b7fb10.chunk.js.map",
     "index.html": "/TechSolutions/index.html",
-    "precache-manifest.81f397b79b3dfaca3cb8cabe2a1014c0.js": "/TechSolutions/precache-manifest.81f397b79b3dfaca3cb8cabe2a1014c0.js",
+    "precache-manifest.e097ca23e0dd21ba1766ac2b1d4fb04f.js": "/TechSolutions/precache-manifest.e097ca23e0dd21ba1766ac2b1d4fb04f.js",
     "service-worker.js": "/TechSolutions/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/TechSolutions/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.ffebdc35.chunk.css.map": "/TechSolutions/static/css/main.ffebdc35.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a4b7fb10.chunk.js",
     "static/css/main.ffebdc35.chunk.css",
-    "static/js/main.6b3dd42d.chunk.js"
+    "static/js/main.c95a3d3d.chunk.js"
   ]
 }
